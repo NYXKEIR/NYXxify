@@ -2,13 +2,13 @@
   <img src="assets/icons/ic_launcher_round.png" alt="Musily Logo" width="100px">
 </div>
 
-# Musily: A great music app.
+# NYXxify: A great music app.
 
 This repository contains the source code for Musily, a music app built with Flutter.
 
 ### Download
 
-Get it on [Telegram](https://t.me/MusilyApp) or [GitHub](https://github.com/MusilyApp/musily/releases).
+Get it on [GitHub](https://github.com/MusilyApp/musily/releases).
 
 ### Features
 
